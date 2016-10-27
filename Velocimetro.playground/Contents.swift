@@ -1,4 +1,4 @@
-//: Proyecto 2.
+//: Proyecto 2. modificado.
 
 import UIKit
 
