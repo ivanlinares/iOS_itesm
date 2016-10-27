@@ -3,3 +3,4 @@
 import UIKit
 
 
+enum Velocidades
