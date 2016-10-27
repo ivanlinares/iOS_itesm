@@ -24,10 +24,10 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		2C13D7F61DC27EC800049903 /* Velocimetro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Velocimetro.app; path = "/Users/ivan/Documents/@Devs/Velocimetro/build/Debug-iphoneos/Velocimetro.app"; sourceTree = "<absolute>"; };
-		2C13D80A1DC27EC900049903 /* VelocimetroTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = VelocimetroTests.xctest; path = "/Users/ivan/Documents/@Devs/Velocimetro/build/Debug-iphoneos/VelocimetroTests.xctest"; sourceTree = "<absolute>"; };
-		2C13D8151DC27EC900049903 /* VelocimetroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = VelocimetroUITests.xctest; path = "/Users/ivan/Documents/@Devs/Velocimetro/build/Debug-iphoneos/VelocimetroUITests.xctest"; sourceTree = "<absolute>"; };
 		2C13D8271DC27F4500049903 /* Velocimetro.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Velocimetro.playground; sourceTree = "<group>"; };
+		2C13D82B1DC2819200049903 /* Velocimetro.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Velocimetro.app; path = "/Users/ivan/Documents/@Devs/Velocimetro/build/Debug-iphoneos/Velocimetro.app"; sourceTree = "<absolute>"; };
+		2C13D82C1DC2819200049903 /* VelocimetroTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = VelocimetroTests.xctest; path = "/Users/ivan/Documents/@Devs/Velocimetro/build/Debug-iphoneos/VelocimetroTests.xctest"; sourceTree = "<absolute>"; };
+		2C13D82D1DC2819200049903 /* VelocimetroUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = VelocimetroUITests.xctest; path = "/Users/ivan/Documents/@Devs/Velocimetro/build/Debug-iphoneos/VelocimetroUITests.xctest"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,7 +79,7 @@
 			);
 			name = Velocimetro;
 			productName = Velocimetro;
-			productReference = 2C13D7F61DC27EC800049903 /* Velocimetro.app */;
+			productReference = 2C13D82B1DC2819200049903 /* Velocimetro.app */;
 			productType = "com.apple.product-type.application";
 		};
 		2C13D8091DC27EC900049903 /* VelocimetroTests */ = {
@@ -97,7 +97,7 @@
 			);
 			name = VelocimetroTests;
 			productName = VelocimetroTests;
-			productReference = 2C13D80A1DC27EC900049903 /* VelocimetroTests.xctest */;
+			productReference = 2C13D82C1DC2819200049903 /* VelocimetroTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 		2C13D8141DC27EC900049903 /* VelocimetroUITests */ = {
@@ -115,7 +115,7 @@
 			);
 			name = VelocimetroUITests;
 			productName = VelocimetroUITests;
-			productReference = 2C13D8151DC27EC900049903 /* VelocimetroUITests.xctest */;
+			productReference = 2C13D82D1DC2819200049903 /* VelocimetroUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -410,6 +410,7 @@
 				2C13D8201DC27EC900049903 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2C13D8211DC27EC900049903 /* Build configuration list for PBXNativeTarget "VelocimetroTests" */ = {
 			isa = XCConfigurationList;
@@ -418,6 +419,7 @@
 				2C13D8231DC27EC900049903 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2C13D8241DC27EC900049903 /* Build configuration list for PBXNativeTarget "VelocimetroUITests" */ = {
 			isa = XCConfigurationList;
@@ -426,6 +428,7 @@
 				2C13D8261DC27EC900049903 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
